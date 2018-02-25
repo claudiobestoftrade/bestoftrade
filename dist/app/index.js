@@ -1,6 +1,6 @@
 var bittrex = require('node-bittrex-api')
-const APISECRET = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
-const APIKEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
+const APISECRET = '6963a3e923874dc2903cc06c9d87ba60';
+const APIKEY = 'd6a4944b18bc4055b0ad83431a9c37d1';
 
 $(function () {
     app.init();
